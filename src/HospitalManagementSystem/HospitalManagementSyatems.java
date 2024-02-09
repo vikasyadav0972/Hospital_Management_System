@@ -9,7 +9,7 @@ public class HospitalManagementSyatems {
 	
 	private static final String username="root";
 	
-	private static final String password="Yadav@7311";
+	private static final String password="    ";
 	
 	
 
